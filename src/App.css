@@ -1,0 +1,15 @@
+.App {
+  width: 250px;
+  border: 1px solid black;
+  margin: 250px auto;
+  padding: 25px;
+  font-family: sans-serif;
+  text-align: center;
+}
+.step-button {
+  padding: 5px;
+}
+
+.count-button {
+  padding: 5px;
+}
